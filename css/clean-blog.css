@@ -6,8 +6,9 @@
 
 body {
   font-size: 20px;
-  color: #212529;
+  color: #ffffff;
   font-family: 'Lora', 'Times New Roman', serif;
+  background-color: #262626
 }
 
 p {
@@ -30,7 +31,7 @@ h6 {
 }
 
 a {
-  color: #212529;
+  color: #ffffff;
   transition: all 0.2s;
 }
 
@@ -40,7 +41,7 @@ a:focus, a:hover {
 
 blockquote {
   font-style: italic;
-  color: #868e96;
+  color: #ffffff;
 }
 
 .section-heading {
@@ -268,7 +269,7 @@ header.masthead .post-heading .meta a {
 }
 
 .post-preview > a {
-  color: #212529;
+  color: #fff;
 }
 
 .post-preview > a:focus, .post-preview > a:hover {
@@ -287,22 +288,6 @@ header.masthead .post-heading .meta a {
   margin: 0 0 10px;
 }
 
-.post-preview > .post-meta {
-  font-size: 18px;
-  font-style: italic;
-  margin-top: 0;
-  color: #868e96;
-}
-
-.post-preview > .post-meta > a {
-  text-decoration: none;
-  color: #212529;
-}
-
-.post-preview > .post-meta > a:focus, .post-preview > .post-meta > a:hover {
-  text-decoration: underline;
-  color: #0085A1;
-}
 
 @media only screen and (min-width: 768px) {
   .post-preview > a > .post-title {
