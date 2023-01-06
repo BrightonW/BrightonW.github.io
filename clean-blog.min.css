@@ -23,7 +23,7 @@ svg, img, video embed, iframe, object {
     height: auto;
 }
  img::-moz-selection{color:#fff;background:0 0}
- img::selection{color:#fff;background:0 0}img::-moz-selection{color:#fff;background:0 0}#mainNav{position:absolute;background-color:#3e3e3e;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif}#mainNav 
+ img::selection{color:#fff;background:0 0}img::-moz-selection{color:#fff;background:0 0}#mainNav{position:absolute;background-color:#8b4c97;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif}#mainNav 
  .navbar-brand{font-weight:800;color:#fff}#mainNav .navbar-toggler{font-size:20px;font-weight:800;padding:13px;text-transform:uppercase;color:#fff}
  #mainNav .navbar-nav>li.nav-item>a{font-size:20px;font-weight:800;letter-spacing:1px;text-transform:uppercase}@media only screen and (min-width:992px)
  {#mainNav{border-bottom:1px solid transparent;background:0 0}#mainNav .navbar-brand{padding:10px 20px;color:#fff}#mainNav .navbar-brand:focus,
