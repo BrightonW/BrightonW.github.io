@@ -22,6 +22,7 @@ svg, img, video embed, iframe, object {
     max-width: 100%;
     height: auto;
 }
+sub{line-height:1.5;margin:30px 0}
  img::-moz-selection{color:#fff;background:0 0}
  img::selection{color:#fff;background:0 0}img::-moz-selection{color:#fff;background:0 0}#mainNav{position:absolute;background-color:#8b4c97;font-family:'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif}#mainNav 
  .navbar-brand{font-weight:800;color:#fff}#mainNav .navbar-toggler{font-size:20px;font-weight:800;padding:13px;text-transform:uppercase;color:#fff}
